@@ -17,11 +17,11 @@
 
 ## 🚀 About Me
 
-I am an **AI Systems Engineer** and Electrical Engineering student at the University of Ibadan, building resilient, production-ready **autonomous multi-agent systems**, **Model Context Protocol (MCP)** tool ecosystems, and **enterprise LLM observability platforms**.
+I am an **AI Systems Engineer** and Electrical Engineering student at the University of Ibadan, building resilient, production-ready **autonomous multi-agent systems**, **Model Context Protocol (MCP)** tool ecosystems, and **enterprise agent observability platforms**.
 
-- 🧠 **Autonomous Agentic Systems:** Multi-agent asynchronous DAGs, human-in-the-loop (HITL "Propose, Don't Impose") guardrails, and deterministic tool bindings.
+- 🧠 **Autonomous Agentic Systems:** Multi-agent asynchronous DAGs, human-in-the-loop, guardrails, and deterministic tool bindings.
 - ⚡ **Model Context Protocol (MCP):** Authoring stdio & SSE MCP servers/clients interfacing real-time observability telemetry (Grafana, GitHub, Jira, Slack).
-- ☁️ **Google Cloud & Vertex AI:** Standardizing on Gemini 3.7 Flash with native reasoning token budgets, Vertex AI Reasoning Engines, and Cloud Run deployments.
+- ☁️ **Google Cloud & Vertex AI:** Vertex AI Reasoning Engines, Cloud Run deployments, GCP IAM, ..d.
 - 🏆 **Honors & Recognition:** Google Developer Diamond League status (6,000+ points) across specialized AI agent tracks.
 
 ---
@@ -91,6 +91,6 @@ I am an **AI Systems Engineer** and Electrical Engineering student at the Univer
 I am open to **AI Engineering roles**, **contract / freelance multi-agent systems consulting**, and **innovative hackathon collaborations**.
 
 - 📧 **Email:** [brightonwe30@gmail.com](mailto:brightonwe30@gmail.com)
-- 🐦 **Twitter/X:** [@brightonwelight](https://x.com/brightonwelight)
+- 🐦 **Twitter/X:** [@bladeofshanghai](https://x.com/bladeofshanghai)
 - 🌐 **Google Developer:** [g.dev/brightonwe](https://g.dev/brightonwe)
 - 📊 **Kaggle:** [kaggle.com/brightonwe](https://kaggle.com/brightonwe)
