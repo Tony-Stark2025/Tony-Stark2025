@@ -1,8 +1,8 @@
 <div align="center">
 
 # ⚡ Bright Onwe
-### **AI Systems & Autonomous Agentic Engineer**
-*Building resilient multi-agent platforms, Model Context Protocol (MCP) tool ecosystems, and enterprise observability engines.*
+### **AI Systems & Autonomous Agentic Engineer | Distributed Systems & Inference Infrastructure**
+*Architecting resilient multi-agent platforms, formal state machine verifiers, and high-throughput inference runtimes.*
 
 <p align="center">
   <a href="https://www.skills.google/public_profiles/d2470d05-5fd4-4d76-8998-8ca626a42eba"><img src="https://img.shields.io/badge/Google%20Skills-Diamond%20League%20(6000%2B%20pts)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Skills Diamond League" /></a>
@@ -20,10 +20,12 @@
 
 ## 🚀 About Me
 
-I am an **AI Systems Engineer** and Electrical & Electronics Engineering student at the University of Ibadan, dedicated to architecting resilient, production-grade **autonomous multi-agent systems**, **Model Context Protocol (MCP)** tool bridges, and **enterprise agent observability platforms**.
+I am an **AI Systems & Autonomous Agentic Engineer** and Electrical & Electronics Engineering student at the University of Ibadan, dedicated to architecting resilient, production-grade **autonomous multi-agent systems**, **distributed systems coordination**, **formal software verification**, and **high-throughput inference runtimes**.
 
-- 🧠 **Autonomous Agentic Architecture:** Multi-agent asynchronous DAGs, human-in-the-loop controls, deterministic guardrails, and role-tailored reasoning budgets.
-- ⚡ **Model Context Protocol (MCP):** Authoring custom `stdio` and `SSE` MCP servers & clients interfacing real-time observability telemetry (Grafana, GitHub, Jira, Slack).
+- 🧠 **Enterprise Agentic Architectures & Distributed Systems:** Multi-agent asynchronous DAGs, actor-model concurrency, finite state machines (FSM), deterministic state transition guards, and idempotency keys to eliminate context poisoning and circular delegation deadlocks.
+- 🛡️ **Formal Verification & Reliability:** Deterministic verification boundaries outside stochastic LLMs, Abstract Syntax Tree (AST) mutation analysis, and rigorous pre/post-condition assertion kernels (e.g., [Linus](https://github.com/Tony-Stark2025/linus) with 268 automated tests).
+- ⚡ **Inference Engineering & Post-Training:** Profiling KV-cache memory pressure, continuous batching, chunked prefill, speculative decoding, time-to-first-token (TTFT) latency tuning, and test-time compute scaling.
+- 🔌 **Model Context Protocol (MCP):** Authoring custom `stdio` and `SSE` MCP servers & clients interfacing real-time observability telemetry (Grafana, GitHub, Jira, Slack).
 - ☁️ **Google Cloud & Vertex AI:** Vertex AI Reasoning Engines, Agent Engine, Cloud Run serverless microservices, Cloud Build CI/CD, and GCP IAM.
 - 🏆 **Honors & Certifications:** **Google Developer Diamond League** status (6,045+ points) and **17+ verified credentials** across Google Cloud, DeepMind, and the Gemini Enterprise Agent Ready (GEAR) curriculum.
 
@@ -95,18 +97,19 @@ I am an **AI Systems Engineer** and Electrical & Electronics Engineering student
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Agentic AI & LLMs** | Model Context Protocol (MCP), Multi-Agent DAG Orchestration, Google ADK, Vertex AI Agent Engine, Gemini 3.7 Flash Hybrid Reasoning, Amazon Bedrock AgentCore, Tool Calling |
+| **Agentic AI & Distributed Systems** | Model Context Protocol (MCP), Multi-Agent DAG Orchestration, Actor-Model Concurrency, Finite State Machines (FSM), Google ADK, Vertex AI Agent Engine, Gemini 3.7 Flash Hybrid Reasoning, Amazon Bedrock AgentCore, Tool Calling, Idempotent Execution |
+| **Formal Verification & Reliability** | Deterministic Boundary Verifiers, AST Mutation Analysis, Invariant Assertions, OpenTelemetry, Grafana Stack (Loki, Tempo, Mimir, LogQL), `pytest` (Hermetic Suites), Opik LLM Tracing |
+| **Inference Engineering & Post-Training** | KV-Cache Paging & Optimization, Continuous Batching, Chunked Prefill, Speculative Decoding, Time-to-First-Token (TTFT) Latency Tuning, Test-Time Compute Scaling, Model Distillation, DPO/RLHF Alignment Curation |
 | **Cloud & Deployment** | Google Cloud Platform (Cloud Run, Vertex AI, Cloud Build, Secret Manager, IAM, ADC, GKE), AWS Bedrock, Docker |
 | **Backend & APIs** | Python (`FastAPI`, `AsyncIO`, `Pydantic`, `Uvicorn`), Node.js, Express, REST APIs, Server-Sent Events (SSE) |
 | **Frontend & UI** | TypeScript, React, Next.js 14, Angular 20, Tailwind CSS, Vite |
-| **Observability & Testing** | OpenTelemetry, Grafana Stack (Loki, Tempo, Mimir, LogQL), `pytest` (Hermetic Suites), Opik LLM Tracing |
 | **Databases & State** | Google Cloud Firestore, SQLite Checkpointing, Vector Stores |
 
 ---
 
 ## 📬 Connect & Collaborate
 
-I am open to **AI Engineering roles**, **contract / freelance multi-agent systems consulting**, and **hackathon collaborations**.
+I am open to **AI Systems / Inference Infrastructure roles**, **distributed multi-agent systems consulting**, and **high-impact engineering collaborations**.
 
 - 📧 **Email:** [brightonwe30@gmail.com](mailto:brightonwe30@gmail.com)
 - 🐦 **Twitter / X:** [@bladeofshanghai](https://x.com/bladeofshanghai)
