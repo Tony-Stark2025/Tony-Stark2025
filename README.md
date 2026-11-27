@@ -33,6 +33,24 @@ I am an **AI Systems & Autonomous Agentic Engineer** and Electrical & Electronic
 
 ## 🌟 Flagship Projects & Systems
 
+### 🔒 [Piton — Lockfile & Supply-Chain Firewall for MCP Servers & AI Coding Agents](https://github.com/Tony-Stark2025/piton)
+[![PyPI](https://img.shields.io/pypi/v/piton-cli?color=f97316&label=PyPI)](https://pypi.org/project/piton-cli/)
+[![Release](https://img.shields.io/github/v/release/Tony-Stark2025/piton?color=0ea5e9)](https://github.com/Tony-Stark2025/piton/releases)
+[![GHCR](https://img.shields.io/badge/GHCR-piton--sidecar-2563eb?logo=docker&logoColor=white)](https://github.com/Tony-Stark2025/piton/pkgs/container/piton-sidecar)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](https://github.com/Tony-Stark2025/piton/blob/main/LICENSE)
+
+> **The `package-lock.json` & supply-chain scanner for AI coding agents** (`Claude Code`, `Cursor`, `OpenCode`) — deterministic split SHA-256 MCP pinning, coding-agent hook RCE linting, offline shadow replay (`CEL`/`Cedar`), and a distroless Go Envoy v3 `ext_proc` sidecar. Built at [Gaussian Labs](https://www.gaussianlabs.dev).
+
+- **Key Highlights:**
+  - 📦 **Slim 2-Dependency CLI (`pydantic` + `pyyaml`):** Zero-install scan via `uvx piton-cli scan --repo .` and 5-line GitHub Action (`Tony-Stark2025/piton@v0.4.2`).
+  - 🔐 **Split-Hash MCP Lockfiles:** Hard-blocks structural `inputSchema` drift everywhere and third-party description rug pulls, while keeping internal docstring edits warning-only.
+  - 🕸️ **Coding-Agent RCE Lint:** Catches `.claude/settings.json` `curl|sh` hooks & `Bash(*)` wildcards, `.vscode/tasks.json` `folderOpen` autorun, malicious `.mcp.json` STDIO commands, and bidi Unicode smuggling in `.cursor/rules`.
+  - 🚀 **Production Go Envoy Sidecar & Control Plane:** Multi-arch distroless GHCR image (`ghcr.io/tony-stark2025/piton-sidecar:0.4.2`) with live `tools/list` blocking, OIDC JWKS / RFC 8693 OBO, response projection, and Slack/Web MRTR approvals.
+- **Tech Stack:** `Python 3.10+`, `Go 1.26`, `Envoy v3 ext_proc (gRPC)`, `CEL`, `Cedar`, `OpenTelemetry`, `Kubernetes / Helm`.
+- **Links:** [Docs](https://tony-stark2025.github.io/piton/) · [PyPI (`piton-cli`)](https://pypi.org/project/piton-cli/) · [Try Vulnerable Demo Repo](https://github.com/Tony-Stark2025/piton-vuln-demo) · [Gaussian Labs](https://www.gaussianlabs.dev)
+
+---
+
 ### 🛡️ [Prometheus — Enterprise Workstream Observability Platform](https://github.com/Tony-Stark2025/prometheus)
 [![Status](https://img.shields.io/badge/Status-Active_Live_Deployment-success.svg)]()
 [![Model](https://img.shields.io/badge/Model-Gemini_3.7_Flash-4285F4.svg)]()
